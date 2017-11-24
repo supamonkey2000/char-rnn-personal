@@ -1,0 +1,524 @@
+Bakers Delight
+Balfours
+Breadtop
+Brumbys Bakeries
+Goodman Fielder
+Michels Patisserie
+Mrs Macs Pies
+Patties Foods
+Pie Face
+Quality Bakers
+Top Top Bakeries
+Coopers
+Bakery Reiss
+ACE Bakery
+Big Apple
+Country Style
+Fairmount Bagel
+George Westion Limited
+Michels Bakery Cafe
+Multi-Margues
+Premiere Moisson
+St-Viateur Bagel
+Vachon Inc
+Castano
+Arome Bakery
+Kee Wah Bakery
+La Rose Noire
+Maxims Catering
+Saint Honore Cake Shop
+Ryvita Company
+Biscuits Fossier
+Delifrance
+Groupe Holder
+Paul
+Ghantewala
+Karachi Bakery
+Mangharam Biscuit
+Monginis
+Parle Products
+Yazdani Bakery
+The Cake Walkers
+Angel Bakeries
+Bermans Bakery
+Rotiboy
+The Italian Baker
+Grupo Bimbo
+Krishna Pauroti
+Apent Bakeri
+Bread & Butter Bakeshop
+Bengawan Solo
+BreadTalk
+Four Leaves
+Tous Les Jours
+Yarych Confectionary
+AB Mauri
+Bakers Oven
+Beigel Bake
+Braces Bakery
+British Bakeries
+BUrtons Biscuit Company
+Chelsea Bun House
+Connoisseurs Bakery
+Cooks the Bakery
+Cooplands
+Druckers Vienna Patisserie
+Foxs Biscuits
+Ginsters
+Greggs
+Grodzinski Bakery
+Hovis
+HR Bradfords
+Huntley & Palmers
+Irwins Bakery
+Jus-ROl
+Kashmir Crown Bakeries
+Krispy Kreme UK
+Lisboa Pattisserie
+Millies Cookies
+Mr Kipling
+New York Bagel
+Peek Freans
+Peters
+Pork Farms
+Premier Foods
+Rank HOvis McDougall
+Rathbones Bakeries
+Sayers
+Tunnocks
+United Biscuits
+Walkers Shortbread
+Warburtons
+Warrens Bakery
+William Jackson Food Group
+Wrights Pies
+Acme Break Company
+Alessi Bakery
+Amighettis Bakery
+Archway Cookies
+Arizmendi Bakery
+Arnold Bakery
+Atlanta Break Company
+Au Bon Pain
+Auntie Annes
+Baked & Wired
+Big Apple Bagels
+Bimbo Bakeries USA
+Blue Chip Cookies
+Boudin Bakery
+Breadsmith
+Browwnberry
+Brueggers
+Cafe du Monde
+Cake Girls
+Cake in a Cup
+Carlos Bake Shop
+Cavanagh Company
+Cinnabon
+Clinton Street Baking Company & Resteraunt
+Cloverhill Bakery
+Cocos Bakery
+Collin Street Bakery
+Colombo Baking Company
+Cookies by Design
+Corner Bakery Cafe
+Country Club Bakery
+Crumbs Bake Shop
+Czech Stop Bakery
+Dancing Deer Baking Co
+Daves Killer Bread
+Deweys Bakery
+Dong Phuong Oriental Bakery
+Dorschs White Cross Bakery
+Dozen Bake Shop
+Elsasser Bakery
+Enrico Biscotti Company
+Entenmanns
+Erick Schats Bakery
+FA Kennedy Steam Bakery
+Federal Pretzel Baking Company
+Flowers Foods
+Franklin Cider Mill
+French Meadow Bakery
+Fuchs Bakery
+GH Bent Company
+Georgetown Bagelry
+Georgetown Cupcake
+Golden Gate Fortune Cookie Company
+Grand Central Bakery
+Greate American Cookies
+Greate Harvest Bread Company
+Heiners Bakery
+Helms Bakery
+Henry S Levy and Sons
+Honey Dew Donuts
+Hostess Brands
+Il Fornaio
+Insomnia Cookies
+Jenny Lee Bakery
+Joans On Third
+Kanemitsu Bakery
+The Kings Bakery
+Kings Hawaiian
+Kiss My Bundt Bakery
+Kossars Bialys
+Krispy Kreme
+La Bou
+La Brea Bakery
+La Segunda Bakery
+Le Macaron
+Leidenheimer Baking Company
+LeJeunes Bakery
+Lenders Bagels
+Leonards Bakery
+Levain Bakery
+Liguria Bakery
+Lundberg Bakery
+Lyndells Bakery
+Magnolia Bakery
+Martins Famous Pastry Shoppe Inc
+Malwaukie Pastry Kitchen
+Mothers Cookies
+Old London Foods
+One World Cafe
+Orwashers Bakery
+Panera Bread
+Paradise Bakery & Cafe
+Pepperidge Farm
+Publix
+Racine Danish Kringles
+Renz BLock
+Rhino Foods
+Roselyn Bakery
+Schlotzskys
+Shmidt Baking Company
+Semifreddies Bakery
+Shipley Do-Nuts
+Sprinkles Cupcakes
+Spudnut Shops
+Stroehmann
+Sturgis Pretzel House
+The Swiss Bakery
+Swoboda Bakery
+Table Talk Pies
+Tartine
+Tastykake
+Tiffs Treats
+Udi Healthy Foods
+United States Bakery
+Van de Kamps Holland Dutch Bakeries
+Vegan Treats Bakery
+Venieros
+Yonah Shimmels Knish Bakery
+Kinh Do Corporation
+BAKERIES=https://en.wikipedia.org/wiki/List_of_bakeries
+Clean Harbors
+Coit Cleaners
+Handy
+Homejoy
+Maid Bridage
+Maid 2 Clean
+Merry Maids
+New Britain Dry Cleaning Corporation
+Oxi Fresh Carpet Cleaning
+Service Master Clean
+Spotless Group Holdings
+Superior Rug Cleaning
+Task Rabbit
+CLEANING=https://en.wikipedia.org/wiki/List_of_cleaning_companies
+Vodafone
+Fannie Mae
+Apple
+ExxonMobil
+Gazprom
+Nestle
+Royal Dutch Shell
+Ford Motor Company
+Time Warner
+AOL
+American International Group
+JDS Uniphase
+Quest Communications
+General Motors
+Citigroup
+United Airlines
+British Petroleum
+PROFITSLOSSES=https://en.wikipedia.org/wiki/List_of_largest_corporate_profits_and_losses
+20th Century Fox
+AG Edwards
+A&M Records
+A&W Resteraunts
+Abbot Laboratories
+Abercrombie & Fitch
+Abrams Air Craft
+Abt Sportsline
+Adam Opel AG
+Adidas
+Aditya Birla Group
+Agusta
+AGV
+Air Jordan
+Aitken Spence
+Ajo Motorsport
+Alessi
+Amon
+Amstrad
+Anatra
+Andrea Moda Formula
+Ann Summers
+Ansett Airlines
+Ansett Pioneer
+Antonov
+Arai Helmet
+Archer Daniels
+Armani
+Arrows
+Aston Butterworth
+Aston Martin
+Audi
+Austin Motor Company
+Avery Dennison Corporation
+Avia Bellanca Aircraft
+B&H Photo Video
+Babolat
+Bacardi
+Baedekers
+Bajaj Auto
+Baker Curb Racing
+Baker International
+Baldwin Locomotive Works
+Ball Corporation
+Ballet Rambert
+Bandini Automobili
+Bang & Olufsen
+Bankable Productions
+Bannatynes
+Banta Corporation
+Barilla Group
+Barings Bank
+Barclays
+Barnardos
+Barnes & Nobles
+Barneys New York
+Bashas
+Baskin-Robbins
+Bass & Co
+Bausch & Lomb
+Bayer
+Beckman Coulter
+Behra
+Bell Aircraft
+Bell & Ross
+Bell Telephone Company
+Bellasi
+Beltz & Gelberg
+Ben & Jerrys
+Benbros
+Benelli
+Benetton Group
+Bentaills
+Bently
+Benz & Cie
+Beretta
+Berluti
+Berton
+Bertone
+Bianchi Bicycles
+Bickerton
+Bimota
+Bing Lee
+Birds Custard
+Birds Eye
+Black & Decker
+Blohm & Voss
+Bloomberg LP
+Bloomingdales
+Boardman Bikes
+Bob Bondurant School of High Performance Driving
+Bocar
+Boddingtons
+The Bodley Head
+Boeing
+Bolkow
+Bombardier Inc
+Bomgar
+Bonhams
+Bonnier Group
+Booths Gin
+Boots
+BordersGroup
+Boro
+Bosch
+Bose Corporation
+Babham
+Brabus
+Brad Jones Racing
+Brains Brewery
+Brawn GP
+Brentanos
+Brewco Motorsports
+Bridgestone
+Briggs & Stratton
+Britek Motorsport
+Brooks Sports
+Brun Motorsport
+Bryant and May
+Bugatti
+Buick
+Bulgari
+Bulova
+Burberry
+CH Robinson Worldwide
+C&A
+Cabelas
+Cadbury
+Cadillac
+Cagiva
+Callaway Cars
+Callaway Golf Company
+Calvin Klein
+Cammell Laird
+Campagnolo
+Campari
+Campbell Soup Company
+Canon
+Carl Zeiss AG
+Carlyle Group
+Casio
+Cassell
+Celine
+Chanel
+Charles Shwab Corporation
+Charles Wells Ltd
+Chase National Bank
+Chevrolet
+Chip Ganassi Racing
+Christian Dior
+Christies
+Citroen
+Clarks
+Claud Butler
+Clif Bar
+Cokin
+Colgate Palmolive
+Collins Radio Company
+Colnago
+Coloni
+Colts Manufacturing Company
+Colt Defence
+Conde Nast Publications
+Connolly Leather
+Cooper Car Company
+Coors Brewing Company
+Cord Automobile
+Corel
+Cosworth
+Courage Competition
+Cray Research
+Crumpler
+Dangote Group
+Datsun
+Danelectro
+De Tomaso
+Debian
+Dell
+DeLorean Motor Company
+Dodge
+Dolby Laboratories
+Dolce & Gabbana
+Dolland & Aitchison
+Ducatio
+Duke Energy
+Duke Video
+Dunlop
+DuPont
+Dyson
+Eastman Kodak
+Eatons
+Edelbock
+Edison REcords
+EuroBrun
+Fabbri Group
+Falabella
+Fazer
+Felt Bicycles
+Fender
+Derguson Research
+Ferragamo
+Ferrari
+Ferranti
+Ferreti Group
+Fielmann
+Filippi Boats
+Fioravanti
+Fisher-Price
+Fitch Ratings
+Fittipaldi Automotive
+FOrbes
+Ford
+Ford Motor Company
+Forti
+Fortnum & Mason
+Fox Racing
+Galen Institute
+Gannett Company
+Garmin
+Gartner
+Gattis Pizza
+Gemballa
+Getty Images
+Getty Oil
+Giannini
+Gillette
+Gitzo
+Godin
+Goldman Sachs
+Goldwyn Picture Corporation
+Goodrich Corporation
+Goodyear Tire and Rubber COmpany
+Gottlieb
+Gresini Racing
+Gretsch
+GT Bicycles
+Gucci
+Guinness
+Gumpert
+H&R Block
+Haas Automation
+Haas Outdoors Inc
+Haldanes
+Halliburton
+Hamann Motorsport
+Hamleys
+Harley-Davidson
+Harrods
+Hatchards
+Hearst Corporation
+Heineken International
+Hendrick Motorsports
+Hennessy
+The Hershey Company
+Hesburger
+Hewitt Associates
+Hewlett-Packard
+Hilton HOtels
+Holland & Barrett
+Honda
+Honeywell
+Hornby Railways
+Hovnanian Enterprises
+Hughes Aircraft
+Hugo Boss
+Huntly and Palmers
+Innocenti
+Irmscher
+Islabikes
+Jack Daniel Distillery
+Jacuzzi
+James Purdey and Sons
+Jean Coutu Group
+The Jim Henson Company
+Jimmy Johns
+John Deere
+Jordan Grand Prix
+Junkers
